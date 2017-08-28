@@ -1,2 +1,2 @@
 # meteor-accounts-stripe-connect
-clone of chadkruser:meteor-accounts-stripe-connect
+clone of https://atmospherejs.com/mrt/accounts-stripe
