@@ -3,6 +3,6 @@
     "description": "Login service for stripe accounts. clone of https://github.com/khamoud/meteor-accounts-stripe.git",
     "homepage": "https://github.com/darior87/meteor-accounts-stripe-connect",
     "author": "",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "git": "https://github.com/darior87/meteor-accounts-stripe-connect"
 }
